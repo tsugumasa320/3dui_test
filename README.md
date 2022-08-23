@@ -3,15 +3,17 @@
 
 # DEMO
 
+Video. Click here.
 [![](https://img.youtube.com/vi/8rKkPrwH11U/0.jpg)](https://www.youtube.com/watch?v=8rKkPrwH11U)
 
 # Features
 
 バイリニア補間法を3次元に拡張したUIを作りました
+I have created a UI that extends the bilinear interpolation method to 3 dimensions.
 
 # Usage
 
-processingで実行してください
+Run with processing
 
 # Note
 
